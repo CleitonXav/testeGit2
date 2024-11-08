@@ -1,0 +1,28 @@
+Para excluir um repositório no GitHub, siga os passos abaixo:
+
+Acesse o Repositório:
+
+Entre na sua conta do GitHub e vá para o repositório que deseja excluir.
+Abra as Configurações do Repositório:
+
+No menu do repositório, clique em "Settings" (Configurações), que geralmente está na parte direita da barra superior.
+Role até a Seção de Perigos ("Danger Zone"):
+
+Na parte inferior da página de configurações, você verá uma seção chamada "Danger Zone".
+Clique em "Delete this repository":
+
+Nesta seção, clique no botão "Delete this repository" (Excluir este repositório).
+Confirme a Exclusão:
+
+GitHub solicitará uma confirmação. Você precisará digitar o nome exato do repositório para confirmar a exclusão.
+Após inserir o nome do repositório, clique no botão "I understand the consequences, delete this repository" (Eu entendo as consequências, excluir este repositório).
+Finalização:
+
+Após confirmar, o repositório será excluído permanentemente e não poderá ser recuperado.
+Atenção: A exclusão é permanente, então certifique-se de fazer backup de qualquer dado importante antes de proceder.
+
+
+
+
+
+
