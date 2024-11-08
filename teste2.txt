@@ -1,0 +1,6 @@
+Outro commit no projeto!
+
+no cmd, digita: 
+type nul > nome do arquivo.txt
+
+Esse comando cria um arquivo vazio chamado arquivo.txt.
