@@ -1,1 +1,12 @@
-Esse � meu terceiro commit no projeto 
+Esse ‚ meu terceiro commit no projeto 
+
+Git::Comandos Essenciais Para Criação de uma Versão anterior do Projeto
+
+● Lista as tags de um repositório:
+    ● git tag
+
+● Cria uma nova tag:
+    ● git tag -a v1.4 -m “minha versão 1.4”
+  
+● Envia a tag para o repositório remoto:
+    ● git push origin v1.4
