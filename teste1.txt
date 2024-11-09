@@ -1,4 +1,4 @@
- meu primeiro acesso no Git
+Conteúdo da linha cad_cliente!
 
 Crie o arquivo .txt:
 
