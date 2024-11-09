@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-conteúdo da linha main!
-=======
-Conteúdo da linha cad_cliente!
->>>>>>> c244481c0404ef348e6159434331b9d8e63eecb5
+ meu primeiro acesso no Git
 
 Crie o arquivo .txt:
 
