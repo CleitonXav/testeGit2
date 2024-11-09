@@ -10,3 +10,60 @@ Git::Comandos Essenciais Para Criação de uma Versão anterior do Projeto
   
 ● Envia a tag para o repositório remoto:
     ● git push origin v1.4
+
+
+● Exemplos de uma branch "cad_cliente"
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git branch cad_cliente
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git status
+	On branch main
+	Your branch is ahead of 'origin/main' by 1 commit.
+  	(use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git checkout cad_cliente
+	 Switched to branch 'cad_cliente'
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git status
+	 On branch cad_cliente
+	 nothing to commit, working tree clean
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git checkout cad_cliente
+	 Switched to branch 'cad_cliente'
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git status
+	On branch cad_cliente
+	nothing to commit, working tree clean
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>type nul> teste6.txt
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git branch -l
+	* cad_cliente
+  	  main
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git branch -a
+	* cad_cliente
+ 	  main
+  	  remotes/origin/main
+
+● E:\IFPE-IPI-2024.1\Web III - Profº Roberto Luiz Sena 2024.2\oxefood-api-cleiton\testeGit2>git status
+	On branch cad_cliente
+	Changes not staged for commit:
+  	(use "git add <file>..." to update what will be committed)
+  	(use "git restore <file>..." to discard changes in working directory)
+        modified:   teste3.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        teste6.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
